@@ -1,0 +1,7 @@
+com/connector/data/Entidad.class
+com/connector/data/ServiceCustomers.class
+com/connector/data/IConnector.class
+com/connector/data/Messages.class
+com/connector/data/ConnectionMySqlRemote.class
+com/connector/data/Connection2MySql.class
+com/connector/data/Customer.class
